@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="defPad">5dp</dimen>
+    <dimen name="text_size_b">16sp</dimen>
+    <dimen name="text_size_a">32sp</dimen>
+    <dimen name="defMer">12dp</dimen>
+    <dimen name="breakMer">1dp</dimen>
+    <dimen name="checkedB">1</dimen>
+    <dimen name="text_size_c">24sp</dimen>
+</resources>
